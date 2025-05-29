@@ -22,7 +22,8 @@ npm create vite@latest my-pokedex -- --template react
 cd my-pokedex
 npm install
 
-# 2 | Fire it up
+# 2 | Fire it upq
+
 npm run dev
 ````
 
